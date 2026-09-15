@@ -19,10 +19,14 @@
 🎥 **Fun fact:** In my free time, I create animations. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
 ---
+### 🚀 Tech Stack & Skills
 
 ### 💻 1. Programming & Markup Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,cs,java,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,cs,java" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,html,css" />
 </p>
 
 ### 🌐 2. Frontend Development & Styles
