@@ -23,10 +23,10 @@
 
 ### 💻 1. Programming & Markup Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,cs,java" />
+  <img src="https://skillicons.dev/icons?i=php,html,css" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,cs,java" />
 </p>
 
 ### 🌐 2. Frontend Development & Styles
