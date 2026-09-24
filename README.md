@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=32&color=E8A2C4&width=650&height=60&lines=Welcome+to+my+digital+universe+%E2%9C%A8" alt="Typing Soft Pink" />
 </p>
 
-## <picture><img src="https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif" width="40px"/></picture> **About Me**
+## <picture><img src="Images/girlwithlonghair.gif" width="40px"/></picture> **About Me**
 
 <img width="55%" align="right" alt="Github" src="./Images/pngkey.com-github-png-6158413.png" />
 
@@ -19,7 +19,7 @@
 🎥 **Fun fact:** In my free time, I create animations. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
 ---
-### 🚀 Tech Stack & Skills
+### <img src="Images/float.gif" width="80"/> **Tech Stack & Skills**
 
 ### 💻 1. Programming & Markup Languages
 <p align="left">
