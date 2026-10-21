@@ -64,7 +64,7 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/c6a58089-2090-4235-8766-ee4ad0150792/public_url" target="_blank">
-    <img src="Images/CCST.jpg" height="95" style="border-radius: 12px;" alt="Cisco CCST Cybersecurity Badge" />
+    <img src="Images/CCST.png" height="95" style="border-radius: 12px;" alt="Cisco CCST Cybersecurity Badge" />
   </a>
 </p>
 
